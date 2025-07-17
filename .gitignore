@@ -10,7 +10,7 @@ dist
 .vscode
 uv.lock
 
-# data
+
 data
 datasets
 !litgpt/data
