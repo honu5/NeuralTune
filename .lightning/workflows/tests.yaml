@@ -3,7 +3,7 @@ trigger:
     branches: ["main"]
   pull_request:
     branches: ["main"]
-
+#test
 image: "pytorchlightning/lightning-thunder:ubuntu24.04-cuda12.8.1-cudnn-fe1.15.0-py3.12-pt_2.8.0-dev"
 machine: "L4_X_2"
 interruptible: "true"
