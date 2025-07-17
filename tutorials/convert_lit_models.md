@@ -1,4 +1,5 @@
 ## Converting LitGPT weights to Hugging Face Transformers
+## ## Converting LitGPT weights to Hugging Face Transformers
 
 LitGPT weights need to be converted to a format that Hugging Face understands with a [conversion script](../litgpt/scripts/convert_lit_checkpoint.py) before our scripts can run.
 
