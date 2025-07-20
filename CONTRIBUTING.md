@@ -1,7 +1,7 @@
 # Contributing to LitGPT
 
 We welcome all contributions, regardless of your level of experience or hardware. Whether it's a bug fix, a new feature, or an improvement to the docs — we appreciate your help!
-
+#test
 ## How to contribute
 
 1. **Open an issue** — describe the bug or feature before writing code. This helps us align on scope early.
