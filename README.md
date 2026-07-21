@@ -2,7 +2,7 @@
 
 > A lightweight framework for pretraining, fine-tuning, evaluating, and serving Large Language Models (LLMs).
 
-NeuralTune is an open-source framework designed to simplify working with modern Large Language Models. It provides an efficient and flexible environment for training, adapting, and deploying transformer-based models while remaining easy to understand and customize.
+NeuralTune is a framework designed to simplify working with modern Large Language Models. It provides an efficient and flexible environment for training, adapting, and deploying transformer-based models while remaining easy to understand and customize.
 
 Whether you're experimenting with a research project, building an AI assistant, or fine-tuning models for domain-specific tasks, NeuralTune offers an intuitive workflow with support for today's most popular open-source LLMs.
 
@@ -258,16 +258,6 @@ NeuralTune can be used for:
 - Hugging Face Hub
 - Flash Attention (optional)
 
----
-
-# Contributing
-
-Contributions are welcome.
-
-If you discover a bug or have an idea for a new feature, feel free to open an issue or submit a pull request.
-
----
-
 # Roadmap
 
 - [x] LLM inference
@@ -301,7 +291,6 @@ NeuralTune builds upon the open-source AI ecosystem, including:
 - Flash Attention
 - bitsandbytes
 
-Special thanks to the open-source community for advancing efficient Large Language Model research.
 
 ---
 
